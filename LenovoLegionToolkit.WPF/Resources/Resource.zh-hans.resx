@@ -736,7 +736,7 @@
     <value>自定义</value>
   </data>
   <data name="CycleGodModePresetAutomationStepControl_Message" xml:space="preserve">
-    <value>通过可用的自定义模式预设周期。</value>
+    <value>循环切换可用的自定义模式预设。</value>
   </data>
   <data name="CycleGodModePresetAutomationStepControl_Title" xml:space="preserve">
     <value>循环自定义模式预设</value>
@@ -769,7 +769,7 @@
     <value>剩余天数</value>
   </data>
   <data name="DeactivateGPUAutomationStepControl_Message" xml:space="preserve">
-    <value>禁用离散的 GPU 如果它是不必要的。</value>
+    <value>在不需要时停用独立显卡。</value>
   </data>
   <data name="DeactivateGPUAutomationStepControl_Title" xml:space="preserve">
     <value>休眠独立显卡</value>
@@ -3017,7 +3017,7 @@
     <value>温度</value>
   </data>
   <data name="SettingsPage_Theme_Description" xml:space="preserve">
-    <value>设置浅色模式、神色模式或跟随系统主题。</value>
+    <value>设置浅色模式、深色模式或跟随系统主题。</value>
   </data>
   <data name="SettingsPage_Theme_Title" xml:space="preserve">
     <value>主题</value>
@@ -3459,7 +3459,7 @@
     <value>复制当前的网络名称</value>
   </data>
   <data name="WiFiConnectedPipelineTriggerTabItemContent_LeaveEmptyForAnyNetwork" xml:space="preserve">
-    <value>将任何 Wi-Fi 网络留空。</value>
+    <value>留空表示任意 Wi-Fi 网络。</value>
   </data>
   <data name="WindowsPowerModesWindow_Title" xml:space="preserve">
     <value>Windows 电源模式</value>
