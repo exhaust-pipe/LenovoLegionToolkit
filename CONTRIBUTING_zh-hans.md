@@ -1,9 +1,5 @@
 ## 欢迎来到拯救者工具箱开发者指南
 
-### 本贡献指南的其他语言版本：
-* [English contributing guide](CONTRIBUTING.md)
-* [日本語版の貢献ガイド](CONTRIBUTING_ja-JP.md)
-
 首先感谢你花时间为此项目做出贡献！随着拯救者工具箱的热度越来越高，为了确保你的贡献能够被迅速采纳，你应该遵守一定的格式和规则。
 
 <br/>
@@ -14,11 +10,11 @@ _由于 Issues 总量的增加，不符合标准的 Issue 会在无预先警告�
 
 **1. 在报告 Issue 前请仔细阅读 README**
 
-绝大多数常见问题的解决方法和重要信息都已在 [README](https://github.com/LenovoLegionToolkit-Team/LenovoLegionToolkit/blob/master/README_zh-hans.md) 内阐明。请务必在报告 Issue 或发起讨论前通读其中的内容。
+绝大多数常见问题的解决方法和重要信息都已在 [README](https://github.com/BartoszCichecki/LenovoLegionToolkit/blob/master/README_zh-hans.md) 内阐明。请务必在报告 Issue 或发起讨论前通读其中的内容。
 
 **2. 检查已被报告的 Issues**
 
-请检查项目仓库下的 [Issues](https://github.com/LenovoLegionToolkit-Team/LenovoLegionToolkit/issues?q=is%3Aissue) 和 [Discussions](https://github.com/LenovoLegionToolkit-Team/LenovoLegionToolkit/discussions?discussions_q=) 栏目。请不要报告重复的 Issue 或发起重复的讨论。即使你找到的 Issue 已经被关闭，你一样可以在那里留言。你也可以在我们的 **Official Discord Server** 上讨论已知问题。
+请检查项目仓库下的 [Issues](https://github.com/BartoszCichecki/LenovoLegionToolkit/issues?q=is%3Aissue) 和 [Discussions](https://github.com/BartoszCichecki/LenovoLegionToolkit/discussions?discussions_q=) 栏目。请不要报告重复的 Issue 或发起重复的讨论。即使你找到的 Issue 已经被关闭，你一样可以在那里留言。
 
 **3. 使用英语**
 
@@ -52,7 +48,7 @@ _由于 Issues 总量的增加，不符合标准的 Issue 会在无预先警告�
 
 **10. 翻译**
 
-我们使用 [Crowdin](https://crowdin.com/project/lenovolegiontoolkit-unofficial) 作为软件翻译平台。如果你想为翻译做出贡献，请在那里申请访问项目的权限。
+我们使用 [Crowdin](https://crowdin.com/project/llt) 作为软件翻译平台。如果你想为翻译做出贡献，请在那里申请访问项目的权限。
 
 **11. Pull requests**
 
